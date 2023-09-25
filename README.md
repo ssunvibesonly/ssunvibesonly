@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=250&section=header&text=SunYeong's%20Github&fontSize=70&fontColor=fffafa"/>
-
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 <!--
 **ssunvibesonly/ssunvibesonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
