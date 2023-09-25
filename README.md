@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=300&section=header&text=SunYeong's%20Github&fontSize=70&fontColor=f8f8ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=300&section=header&text=SunYeong's%20Github&fontSize=70&fontColor=fffafa"/>
 
 
 <!--
