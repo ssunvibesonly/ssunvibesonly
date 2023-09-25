@@ -1,5 +1,6 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SunYeong's Git!&fontSize=50" />
+
 
 <!--
 **ssunvibesonly/ssunvibesonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
