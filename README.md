@@ -32,6 +32,6 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssunvibesonly&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ssunvibesonly&show_icons=true">> </div> 
+<img src="https://github-readme-stats.vercel.app/api?username=ssunvibesonly&show_icons=true"> </div> 
     </div>
     
