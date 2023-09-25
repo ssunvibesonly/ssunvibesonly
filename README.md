@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SunYeong's Git!&fontSize=50" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SunYeong's Git!&fontSize=50")
 
 
 <!--
