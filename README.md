@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 기록하는 개발자✍️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 열심히 "잘"하는 개발자가 되겠습니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> "같이" "가치"있는 개발자로 성장하겠습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
